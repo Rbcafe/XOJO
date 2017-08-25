@@ -9,3 +9,7 @@ Xojo repository of codes, archives available on Internet.
 ## More information
 
 https://www.xojo.pro
+
+## More information about Xojo
+
+https://www.xojo.com
