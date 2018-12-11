@@ -1,4 +1,4 @@
-#Great White Software
+# Great White Software
 
 http://www.great-white-software.com/Great_White_Software/REALbasic_Code.html
 
