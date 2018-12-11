@@ -1,3 +1,3 @@
 # GitHub
 
-Examples on GitHub
+Examples on GitHub.
